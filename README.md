@@ -1,6 +1,6 @@
 # 🎀 Safoorah Siddiqui
 
-💻 **Machine Learning and AI Engineer **  
+💻 **Machine Learning and AI Engineer**  
 Currently working with **React**, **TypeScript**, **Python**, and **Firebase**.
 
 🧠 Currently working on [arthurai.app](https://arthurai.app) — an AI-powered storytelling platform helping creators turn ideas into scripts and animations.  
